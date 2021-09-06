@@ -52,7 +52,7 @@ and open the template in the editor.
     position: relative;
     height: 500px;
     overflow: hidden;
-    background-image: url(image/manit.png.jpg) ;
+    background-image: url(image/manit.jpg) ;
     background-size: cover;
 }
 .context-area{

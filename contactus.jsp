@@ -20,10 +20,10 @@
     <body>
         <div class="container top p-3 ">
             <div class="row  px-1">
-            <img class="p-2" src="image/manit logo.png.jpeg"class="img-thumbnail" alt="Cinque Terre" width="110px" height="110px" >
+            <img class="p-2" src="image/manit logo.png"class="img-thumbnail" alt="Cinque Terre" width="110px" height="110px" >
             <div class="col-sm-8 manit-cl">
-                <h3 >Dr. Ambedkar Institute Of Technology</h3>
-                <h5>Kanpur, Uttar Pradesh</h5>
+                <h3 >Maulana Azad National Institute Technology </h3>
+                <h5>Bhopal, Madhaya Pradesh</h5>
             </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
         <!-- Grey with black text -->
         <nav class="navbar navbar-expand-sm p-1 sticky-top navbar-dark ">
             <div class="container">
-                <h6 class="navbar navbar-dark nav-cl ">AITH</h6>
+                <h6 class="navbar navbar-dark nav-cl ">MANIT</h6>
                 <button type="button" class="navbar-toggler " data-toggle="collapse" data-target="#mymenu">
                     <span class="navbar-toggler-icon "></span>
                     
@@ -70,11 +70,11 @@
                     <div class="card">
                         
                         <div class="card-body">
-                            <h4 >Rahul Pandey , Rahul Pandey ,Tikendra Kumar , Nitesh Kumar Jaiswal</h4>
+                            <h4 >Navin Ranjan</h4>
                                  <div style="margin-right: 20px; color:navy">
-                                 <p class="card-text">I am a student in AITH And I am from RaeBareli. </p>
-                                 <h6 class="card-text">Email : rahulpandey800417@gmail.com </h6>
-                                 <h6 class="card-text">Mobile No. : +91-8318276246</h6>
+                                 <p class="card-text">I am a student in NIT Bhopal And I am from Sitamarhi Bihar. </p>
+                                 <h6 class="card-text">Email : navinranjan15498@gmail.com </h6>
+                                 <h6 class="card-text">Mobile No. : +91-7979819668</h6>
                                  </div>
                         </div>
                     </div>

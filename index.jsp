@@ -25,10 +25,10 @@
         
         <div class="container top p-3 ">
             <div class="row  px-1">
-            <img class="p-2" src="image/manit logo.png.jpeg"class="img-thumbnail" alt="Cinque Terre" width="110px" height="110px" >
+            <img class="p-2" src="image/manit logo.png"class="img-thumbnail" alt="Cinque Terre" width="110px" height="110px" >
             <div class="col-sm-8 manit-cl">
-                <h3 >Dr. AMBEDKAR INSTITUTE OF TECHNOLOGY</h3>
-                <h5>KANPUR , UTTAR PRADESH</h5>
+                <h3 >Maulana Azad National Institute Technology </h3>
+                <h5>Bhopal, Madhaya Pradesh</h5>
             </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
         <!-- Grey with black text -->
         <nav class="navbar navbar-expand-sm p-1 sticky-top navbar-dark ">
             <div class="container">
-                <h6 class=" navbar navbar-dark nav-cl "> AITH</h6>
+                <h6 class=" navbar navbar-dark nav-cl "> MANIT</h6>
                 <button type="button" class="navbar-toggler " data-toggle="collapse" data-target="#mymenu">
                     <span class="navbar-toggler-icon "></span>
                     
